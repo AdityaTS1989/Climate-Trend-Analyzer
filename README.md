@@ -36,17 +36,17 @@ Analyzes 65 years of historical climate data (1960–2024) across 5 Indian citie
 ## 📈 Output Charts
 
 ### 🌡️ Temperature Trend
-![Temperature Trend](images/chart1_temp_trend.png)
+![Temperature Trend](chart1_temp_trend%20(1).png)
 
 ---
 
 ### ⚠️ Anomaly Detection
-![Anomaly Detection](images/chart4_anomalies.png)
+![Anomaly Detection](chart4_anomalies%20(1).png)
 
 ---
 
 ### 🔮 Forecast to 2050
-![Forecast](images/chart5_forecast_decades.png)
+![Forecast](chart5_forecast_decades%20(1).png)
 
 ---
 
